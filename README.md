@@ -1,24 +1,6 @@
 # AsciiPlayer
 
-AsciiPlayer is a Python-based tool that transforms your videos into fully playable ASCII art while preserving the original audio. Watch your favorite videos in a retro, code-inspired style!  
-
-## Features
-
-- Convert any video to **ASCII art**  
-- Preserve **original audio**  
-- Adjustable **output width** for detail vs performance  
-- Choose between **green-only** or **full RGB color**  
-
-## Requirements
-
-- Python 3.8+  
-- [ffmpeg](https://ffmpeg.org/) (for audio merging)  
-- Python packages:
-  - `opencv-python`
-  - `numpy`
-  - `Pillow`
-
-> Note: If you are using the standalone `.exe`, no Python installation is needed, but `ffmpeg.exe` should be in the same folder or available in PATH.  
+**Video -----> ASCII art**
 
 ## Installation (Python)
 
