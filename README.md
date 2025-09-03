@@ -8,11 +8,10 @@
    ```bash
    git clone https://github.com/yourusername/AsciiPlayer.git
    cd AsciiPlayer
-
-2.Install required Python packages:
-    ```bash
-         pip install opencv-python numpy Pillow
-               
+   
+1. Install required Python packages:
+   ```bash
+   pip install opencv-python numpy Pillow
 
 3.Run the script from the terminal:
   ```bash
