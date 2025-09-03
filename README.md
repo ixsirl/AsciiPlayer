@@ -12,7 +12,7 @@
 2. Install required Python packages:
    ```bash
    pip install opencv-python numpy Pillow
-
-3.Run the script from the terminal:
-  ```bash
-        python AsciiPlayer.py
+   
+2. Run the script from the terminal:
+   ```bash
+    python main.py
